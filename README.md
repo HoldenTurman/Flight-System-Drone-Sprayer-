@@ -1,4 +1,4 @@
-# Flight-System-Drone-Sprayer 🚁
+# Flight-System-Drone-Sprayer
 
 ## Overview  
 Flight-System-Drone-Sprayer is a personal C++ project that demonstrates how an autonomous (or semi-autonomous) drone flight control and spray-system logic can be implemented from scratch. The project was built in under 24 hours after learning C++ — showcasing rapid adaptive learning, problem-solving, and the ability to quickly transform new technical concepts into working code.
@@ -21,11 +21,6 @@ Flight-System-Drone-Sprayer is a personal C++ project that demonstrates how an a
 ## Build & Run  
 
 ```bash
-# Navigate to the project folder
-cd Flight-System-Drone-Sprayer
-
-# Compile
-clang++ main.cpp -o drone_sprayer   # or replace with your compiler
-
-# Run
-./drone_sprayer
+cd C++
+clang++ main.cpp -o drone_sprayer
+./main
